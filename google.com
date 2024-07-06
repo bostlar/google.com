@@ -63,7 +63,7 @@
     </div>
     <div class="buttons">
         <input type="button" value="Google Search">
-        <input type="button" value="I'm Feeling Lucky">
+        <input type="button" value="Фальшивка">
     </div>
 </body>
 </html>
