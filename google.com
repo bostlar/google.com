@@ -59,11 +59,11 @@
         <img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" alt="Google">
     </div>
     <div class="search-box">
-        <input type="text" placeholder="Search Google or type a URL">
+        <input type="text" placeholder="Поиск не работает">
     </div>
     <div class="buttons">
-        <input type="button" value="Google Search">
-        <input type="button" value="Фальшивка">
+        <input type="button" value="Эта кнопка не работает">
+        <input type="button" value="И эта тоже">
     </div>
 </body>
 </html>
